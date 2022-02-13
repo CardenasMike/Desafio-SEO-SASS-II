@@ -1,0 +1,68 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+.btn {
+  transition-property: all;
+  transition-duration: 1s; }
+  .btn:hover {
+    transform: scale(1.2); }
+
+.fotoAnime {
+  transition-property: all;
+  transition-duration: 1s; }
+  .fotoAnime:hover {
+    transform: scale(1.2); }
+
+.card1 {
+  background-color: #2D0320; }
+
+.card2 {
+  background-color: #400406; }
+
+.card3 {
+  background-color: #392B58; }
+
+.card4 {
+  background-color: #011627; }
+
+body {
+  background-color: #000000; }
+  body .caja {
+    padding: 0; }
+    body .caja .tituloMenu {
+      font-size: 35px; }
+  body .item1,
+  body .item2,
+  body .item3,
+  body .item4 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: center; }
+    body .item1 .textoCard,
+    body .item2 .textoCard,
+    body .item3 .textoCard,
+    body .item4 .textoCard {
+      color: #FFFFFF; }
+    body .item1 .tituloCard,
+    body .item2 .tituloCard,
+    body .item3 .tituloCard,
+    body .item4 .tituloCard {
+      color: #FFFFFF; }
+
+.navItem {
+  vertical-align: inherit; }
+  .navItem .letra {
+    color: #FFFFFF; }
+  .navItem ul {
+    display: flex;
+    flex-direction: column; }
+
+.animate__heartBeat {
+  animation-duration: 3s; }
+
+.pagination {
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 100px; }

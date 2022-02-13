@@ -1,0 +1,12 @@
+$cardColor:(
+    card1: #2D0320,
+    card2: #400406,
+    card3: #392B58,
+    card4: #011627,
+);
+
+@each $items, $color in $cardColor{
+    .#{$items}{
+        background-color: $color;
+    }
+}

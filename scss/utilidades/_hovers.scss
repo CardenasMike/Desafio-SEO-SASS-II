@@ -1,0 +1,18 @@
+//HOVERS
+.btn{
+    transition-property: all;
+    transition-duration: 1s;
+
+        &:hover{
+            transform: scale(1.2);
+       }
+    }
+
+.fotoAnime{
+    transition-property: all;
+    transition-duration: 1s;
+    
+        &:hover{
+            transform: scale(1.2);
+        }
+    }

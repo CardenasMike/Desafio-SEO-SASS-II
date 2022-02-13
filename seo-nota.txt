@@ -1,0 +1,11 @@
+Aplicacion de SEO
+
+1. Agregué etiquetas meta en el index.html con las siguientes valores:
+
+-Keywords: Agregué las siguientes palabras clave ("anime, ver anime, mangas, waifus, capitulo, kimetsu no yaiba, html, scss, css, estrenos animes").
+
+-Description: Agregué como descripcion de mi sitio web el texto "Ver Anime Online, Ver Mangas En Español, Ultimos estrenos".
+
+-Tittle: A la etiqueta Tittle le hice un cambio para que el texto indicara en que seccion del sitio web se ubicaba el espectador del mismo.
+
+-ALT: Agregué unas palabras significativas para cada imagen
